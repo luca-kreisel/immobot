@@ -1,0 +1,3 @@
+# immobot
+Started writing a webscraper/bot that finds, filters and contacts relevant housing offers automatically ...
+... but found flat before finishing project
